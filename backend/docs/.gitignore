@@ -1,0 +1,15 @@
+# Ignorar arquivos e pastas desnecessários no repositório
+* .doc
+* .docx
+* .pdf
+* .csv
+* .xlsx
+* .xml
+* .json
+* .yaml
+* .txt
+
+# ignorar pastas
+**/*.bak
+**/*.swp
+**/*.swo
